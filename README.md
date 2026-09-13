@@ -10,6 +10,11 @@
 - 🎯 Preparing for Software Development opportunities<br/>
 - ⚡ I enjoy solving problems and turning ideas into working applications<br/>
 
+### 🐍 Contribution Activity
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vishugos/Vishugos/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
+</div>
+
 
 
 
