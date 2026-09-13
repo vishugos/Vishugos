@@ -12,7 +12,7 @@
 
 ### 🐍 Contribution Activity
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vishugos/Vishugos/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/vishugos/vishugos/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph" />
 </div>
 
 
